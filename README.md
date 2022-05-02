@@ -20,7 +20,7 @@
 <br/>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on [Fake API](https://github.com/sumantaGhosh24/fake-api)
+- 🔭 I’m currently working on [Online Store](https://github.com/sumantaGhosh24/online-store)
 - 🌱 I’m currently learning more about Web Development & Android Development.
 - 🤔 I’m looking for help with React Native documentation.
 - 💬 Ask me about Web Development & Android Development related stuff.
