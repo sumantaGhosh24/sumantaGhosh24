@@ -1,5 +1,5 @@
 <h2 align="center"> Hello, I'm Sumanta Ghosh 👋</h2>
-<h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
+<h3 align="center">I'm a passionate self-taught Full Stack Developer from India, with years of experience in javascript and python. my passion is to convert your imagination into a real-life application.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumantaGhosh24&label=Views&color=blue&style=plastic" alt="sumantaGhosh24" /> </p>
 
@@ -16,6 +16,12 @@
 <a href="https://codepen.io/ghoshSumanta">
   <img align="left" alt="Sumanta's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
+<a href="https://www.instagram.com/sumantaghosh2411">
+  <img align="left" alt="Sumanta's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100085372278177">
+  <img align="left" alt="Sumanta's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+ </a>
 <br/>
 <br/>
 
