@@ -1,5 +1,5 @@
 <h2 align="center"> Hello, I'm Sumanta Ghosh 👋</h2>
-<h3 align="center">I'm a passionate self-taught Full Stack Developer from India, with years of experience in javascript and python. my passion is to convert your imagination into a real-life application.</h3>
+<h3 align="center">I'm a passionate Full Stack Web Developer from India, with experience in javascript and php. my passion is to convert your imagination into a real-life application.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumantaGhosh24&label=Views&color=blue&style=plastic" alt="sumantaGhosh24" /> </p>
 
@@ -16,26 +16,19 @@
 <a href="https://codepen.io/ghoshSumanta">
   <img align="left" alt="Sumanta's Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
-<a href="https://www.instagram.com/sumantaghosh2411">
-  <img align="left" alt="Sumanta's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100085372278177">
-  <img align="left" alt="Sumanta's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
- </a>
 <br/>
 <br/>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on [e-commerce-api-men](https://github.com/sumantaGhosh24/e-commerce-api-men)
+- 🔭 I’m currently working on React Native Projects
 - 🌱 I’m currently learning more about Web Development & Android Development.
 - 🤔 I’m looking for help with React Native documentation.
-- 💬 Ask me about Web Development & Android Development related stuff.
+- 💬 Ask me about Web Development & React Native Development related stuff.
 - 📫 How to reach me: [Twitter - @sumantaGhosh24](https://twitter.com/sumantaGhosh24)
 
 [![Twitter: sumantaGhosh24](https://img.shields.io/twitter/follow/sumantaGhosh24?style=social)](https://twitter.com/sumantaGhosh24)
 [![Linkedin: imthepk](https://img.shields.io/badge/-sumantaGhosh24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumanta-ghosh-5286ba1a1/)](https://www.linkedin.com/in/sumanta-ghosh-5286ba1a1/)
 [![GitHub sumantaGhosh24](https://img.shields.io/github/followers/sumantaGhosh24?label=follow&style=social)](https://github.com/sumantaGhosh24)
-<!-- [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/) -->
 
 ## 🚀 Languages and Tools:
 <p align="left">
@@ -61,11 +54,6 @@
 </p>
 
 ## 📊 My Github Stats
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumanta Ghosh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sumantaGhosh24&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 <br/>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sumanta Ghosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sumantaGhosh24&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sumanta Ghsoh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumantaGhosh24&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -73,12 +61,6 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Sumanta Ghosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumantaGhosh24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
-<!-- <a href="https://github.com/sumantaGhosh24/restapi-practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumantaGhosh24&repo=restapi-practice&theme=light" />
-</a> -->
 
 <div align="center">
 ### Show some ❤️ by starring some of the repositories!
