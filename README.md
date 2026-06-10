@@ -1,5 +1,5 @@
 <h2 align="center"> Hello, I'm Sumanta Ghosh 👋</h2>
-<h3 align="center">I'm a passionate Full Stack Web Developer from India, with experience in javascript and php. my passion is to convert your imagination into a real-life application.</h3>
+<h3 align="center">I'm a passionate Full Stack Web Developer from India, with experience building web and mobile applications using React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, and React Native.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumantaGhosh24&label=Views&color=blue&style=plastic" alt="sumantaGhosh24" /> </p>
 
